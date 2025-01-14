@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Excel: For basic data analysis and reporting.<br>Power BI: For creating interactive dashboards.<br>Tableau: For data visualization and storytelling.<br>Google Looker: For building data-driven insights.<br>SQL: For querying and managing databases.<br>Python: For advanced data analysis and machine learning.</h4>
+<h4 align="left">Power BI: For basic data analysis and creating interactive dashboards.<br>Tableau: For data visualization.<br>Google Looker: For building data-driven insights.<br>SQL: For querying and managing databases.<br>Python: For basic data analysis  and machine learning.</h4>
 
 ###
 
@@ -19,6 +19,8 @@
 ###
 
 <h4 align="left">Python libraries like Pandas and Matplotlib.<br>Advanced SQL for complex queries and database management.<br>Enhancing skills in Tableau and Google Looker for more dynamic visualizations.</h4>
+
+### 
 
 <!--  من هنا تعدليش -->
 
@@ -35,9 +37,10 @@
   <a href="https://t.me/doaa_hamadah" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
-  <a href="mailto:doaa.hamadah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+ <a href="mailto:doaa.hamadah@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+
 </div>
 
 
