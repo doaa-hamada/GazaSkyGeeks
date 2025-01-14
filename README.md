@@ -20,6 +20,8 @@
 
 <h4 align="left">Python libraries like Pandas and Matplotlib.<br>Advanced SQL for complex queries and database management.<br>Enhancing skills in Tableau and Google Looker for more dynamic visualizations.</h4>
 
+<!--  من هنا تعدليش -->
+
 ###
 
 <h3 align="left">📫 How to Reach Me:</h3>
@@ -27,7 +29,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank"> <!-- هنا بتحطي الليتكدان -->
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://t.me/doaa_hamadah" target="_blank">
